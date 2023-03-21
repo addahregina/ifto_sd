@@ -10,3 +10,4 @@ java spring
 
 
 https://github.com/manoelcampos/sistemas-distribuidos/tree/master/projects/byte-order
+Byte order marker = BOM 
